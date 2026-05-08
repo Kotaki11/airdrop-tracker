@@ -1,2 +1,12 @@
 # airdrop-tracker
 baseee
+# Airdrop Tracker
+## Active Farms
+- Base — OG wallet, 321 txs, Gold tier
+- Polymarket — $POLY confirmed, 30+ day streak
+- Rabby — primary wallet 70%+ history
+- MetaMask — Season 2 pending
+- Buidlpad — account ready, KYC pending
+
+## Wallet
+kotaki.base.eth
