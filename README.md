@@ -12,3 +12,4 @@ baseee
 kotaki.base.eth
 Base txs: 429 running total
 Commits today: 6 so far
+Aave interaction: done
