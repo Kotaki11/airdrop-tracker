@@ -10,3 +10,4 @@ baseee
 
 ## Wallet
 kotaki.base.eth
+Base txs: 429 running total
