@@ -17,3 +17,4 @@ Morpho interaction: done
 Layer3 activations completed today
 Last updated: May 14 2026
 Base txs: 430
+Days remaining on 21-day plan
