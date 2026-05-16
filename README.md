@@ -23,3 +23,4 @@ Days remaining on 21-day plan
  Commits total: 71
  Aave session completed
  Layer3 credits used
+ Morpho + Moonwell done
