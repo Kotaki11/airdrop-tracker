@@ -22,3 +22,4 @@ Days remaining on 21-day plan
  Base txs updated: 494
  Commits total: 71
  Aave session completed
+ Layer3 credits used
