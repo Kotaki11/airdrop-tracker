@@ -28,3 +28,4 @@ Days remaining on 21-day plan
  Base txs: 562 running total
  Commits: 80 total
  Aave + Morpho + Moonwell done
+ Layer3 activations: 3 today
