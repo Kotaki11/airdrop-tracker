@@ -27,3 +27,4 @@ Days remaining on 21-day plan
  Last updated: May 16 2026
  Base txs: 562 running total
  Commits: 80 total
+ Aave + Morpho + Moonwell done
