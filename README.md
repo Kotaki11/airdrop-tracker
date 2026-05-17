@@ -25,3 +25,4 @@ Days remaining on 21-day plan
  Layer3 credits used
  Morpho + Moonwell done
  Last updated: May 16 2026
+ Base txs: 562 running total
