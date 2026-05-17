@@ -29,3 +29,4 @@ Days remaining on 21-day plan
  Commits: 80 total
  Aave + Morpho + Moonwell done
  Layer3 activations: 3 today
+ Owlto deploy done
