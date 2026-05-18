@@ -31,3 +31,4 @@ Days remaining on 21-day plan
  Layer3 activations: 3 today
  Owlto deploy done
  Last updated: May 18 2026
+ Base txs: 607 running total
