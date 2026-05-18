@@ -33,3 +33,4 @@ Days remaining on 21-day plan
  Last updated: May 18 2026
  Base txs: 607 running total
  Commits: 90 total
+ Base app linked Twitter
