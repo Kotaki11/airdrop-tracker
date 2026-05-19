@@ -36,3 +36,4 @@ Days remaining on 21-day plan
  Base app linked Twitter
   Aave + Morpho + Moonwell done
   Last updated: May 19 2026
+  Base txs: 607 running total
