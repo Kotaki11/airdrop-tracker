@@ -39,3 +39,4 @@ Days remaining on 21-day plan
   Base txs: 607 running total
   Commits: 95
   New dapps added: OnchainGM, Seamless, Beefy, Spark, IPOR, DeFiSaver, SurfLayer 
+  Layer3 quests completed
